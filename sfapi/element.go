@@ -2,7 +2,7 @@ package sfapi
 
 import (
 	log "github.com/sirupsen/logrus"
-	"github.com/solidfire/solidfire-sdk-golang/sftypes"
+	"github.com/rohitkoul/solidfire-sdk-golang/sftypes"
 	"github.com/ottemo/mapstructure"
 )
 
