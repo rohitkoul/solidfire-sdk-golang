@@ -5,7 +5,7 @@ import (
 	"crypto/tls"
 	"encoding/json"
 	"errors"
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	"io/ioutil"
 	"net/http"
 	"strconv"
